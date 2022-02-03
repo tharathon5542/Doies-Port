@@ -1,7 +1,7 @@
 import { Container, Box, Heading, SimpleGrid, Divider } from "@chakra-ui/react";
-import Section from "./components/section";
-import { WorkGridItem } from "./components/grid-item";
-import Layout from "./components/layouts/article";
+import Section from "../components/section";
+import { WorkGridItem } from "../components/grid-item";
+import Layout from "../components/layouts/article";
 
 import thumbDisease from '../public/images/disease.png'
 import thumbJasmine from '../public/images/jasmine.png'

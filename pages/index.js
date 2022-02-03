@@ -1,10 +1,10 @@
 import { Button, Container, Box, Heading, Image, useColorModeValue, Link, List, ListItem, Icon } from '@chakra-ui/react'
 import NextLink from 'next/link'
-import Section from './components/section'
-import Paragraph from './components/paragraph'
+import Section from '../components/section'
+import Paragraph from '../components/paragraph'
 import { ChevronRightIcon } from '@chakra-ui/icons'
-import Layout from "./components/layouts/article";
-import { BioSection, BioYear } from './components/bio'
+import Layout from "../components/layouts/article";
+import { BioSection, BioYear } from '../components/bio'
 import { IoLogoGithub } from "react-icons/io5"
 import { IoLogoFacebook } from "react-icons/io5"
 
