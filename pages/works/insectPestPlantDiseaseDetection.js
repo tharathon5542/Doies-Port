@@ -22,6 +22,11 @@ const Work = () => {
                         </Link>
                     </ListItem>
                     <ListItem>
+                        <Meta>Username, Password</Meta>
+                        tharathon0238@gmail.com
+                        1234
+                    </ListItem>
+                    <ListItem>
                         <Meta>Github</Meta>
                         <Link href="https://github.com/tharathon5542/Pests-and-Disease-Detection" target="_blank">
                             https://bit.ly/3Hsikv4 <ExternalLinkIcon mx="2px" />
