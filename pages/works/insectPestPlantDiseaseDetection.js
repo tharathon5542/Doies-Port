@@ -34,6 +34,12 @@ const Work = () => {
                         </Link>
                     </ListItem>
                     <ListItem>
+                        <Meta>Detection Application Testing</Meta>
+                        <Link href="https://www.youtube.com/watch?v=7PCqbbplVGc" target="_blank">
+                            https://bit.ly/34gVTLc <ExternalLinkIcon mx="2px" />
+                        </Link>
+                    </ListItem>
+                    <ListItem>
                         <Meta>Platform</Meta>
                         <span>Windows</span>
                     </ListItem>
