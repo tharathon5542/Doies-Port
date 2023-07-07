@@ -6,6 +6,7 @@ import Layout from "../components/layouts/article";
 import thumbDisease from '../public/images/disease.png'
 import thumbJasmine from '../public/images/jasmine.png'
 import thumbLifelong from '../public/images/lifelong.png'
+import thumbCWIE from '../public/images/cwie.png'
 
 const Works = () => {
     return (
@@ -34,7 +35,14 @@ const Works = () => {
                         <WorkGridItem id="lifelong"
                             title="Lifelong CRRU"
                             thumbnail={thumbLifelong}>
-                            A On line - On site Courses Selling web application
+                            A Online - On site Courses Selling web application
+                        </WorkGridItem>
+                    </Section>
+                    <Section>
+                        <WorkGridItem id="cwie"
+                            title="CWIE : COOPERATIVE AND WORK INTEGRATED EDUCATION"
+                            thumbnail={thumbCWIE}>
+                            A CRRU Web application that use to display and manage data for CWIE 
                         </WorkGridItem>
                     </Section>
                 </SimpleGrid>

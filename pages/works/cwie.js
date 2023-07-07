@@ -9,16 +9,16 @@ const Work = () => {
         <Layout title="Lifelong CRRU">
             <Container>
                 <Title>
-                    Lifelong CRRU <Badge>2023 - NOW</Badge>
+                    CWIE : COOPERATIVE AND WORK INTEGRATED EDUCATION <Badge>2023 - NOW</Badge>
                 </Title>
                 <P>
-                    A Online - On site Courses Selling web application
+                    A CRRU Web application that use to display and manage data for CWIE
                 </P>
                 <List ml={4} my={4}>
                     <ListItem>
                         <Meta>Website</Meta>
-                        <Link href="https://lifelong.crru.ac.th/" target="_blank">
-                            https://lifelong.crru.ac.th/ <ExternalLinkIcon mx="2px" />
+                        <Link href="https://cwie.crru.ac.th/" target="_blank">
+                            https://cwie.crru.ac.th/ <ExternalLinkIcon mx="2px" />
                         </Link>
                     </ListItem>
                     <ListItem>
@@ -34,12 +34,12 @@ const Work = () => {
                         <span>PHP Codeigniter, MySql</span>
                     </ListItem>
                 </List>
-                <WorkImage src="/images/works/lifelong.png" alt="lifelong" />
-                <WorkImage src="/images/works/lifelong3.png" alt="lifelong" />
-                <WorkImage src="/images/works/lifelong5.png" alt="lifelong" />
-                <WorkImage src="/images/works/lifelong4.png" alt="lifelong" />
-                <WorkImage src="/images/works/lifelong1.png" alt="lifelong" />
-                <WorkImage src="/images/works/lifelong2.png" alt="lifelong" />
+                <WorkImage src="/images/works/cwie.png" alt="cwie" />
+                <WorkImage src="/images/works/cwie1.png" alt="cwie" />
+                <WorkImage src="/images/works/cwie2.png" alt="cwie" />
+                <WorkImage src="/images/works/cwie3.png" alt="cwie" />
+                <WorkImage src="/images/works/cwie4.png" alt="cwie" />
+                <WorkImage src="/images/works/cwie5.png" alt="cwie" />
             </Container>
         </Layout>
     )
