@@ -4,7 +4,6 @@ import { WorkGridItem } from "../components/grid-item";
 import Layout from "../components/layouts/article";
 
 import thumbDisease from '../public/images/disease.png'
-import thumbJasmine from '../public/images/jasmine.png'
 import thumbLifelong from '../public/images/lifelong.png'
 import thumbCWIE from '../public/images/cwie.png'
 
@@ -22,13 +21,6 @@ const Works = () => {
                             title="Insect Pests and Plant Disease Detection"
                             thumbnail={thumbDisease}>
                             A Insect Pests and Plant Disease Detection (Information part) which is display all the detail that detect by AI application.
-                        </WorkGridItem>
-                    </Section>
-                    <Section>
-                        <WorkGridItem id="jasmine"
-                            title="Jasmine Genesis Media Com"
-                            thumbnail={thumbJasmine}>
-                            A English education web application work with video and work sheet
                         </WorkGridItem>
                     </Section>
                     <Section>
