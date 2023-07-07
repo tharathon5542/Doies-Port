@@ -5,6 +5,7 @@ import Layout from "../components/layouts/article";
 
 import thumbDisease from '../public/images/disease.png'
 import thumbJasmine from '../public/images/jasmine.png'
+import thumbLifelong from '../public/images/lifelong.png'
 
 const Works = () => {
     return (
@@ -27,6 +28,13 @@ const Works = () => {
                             title="Jasmine Genesis Media Com"
                             thumbnail={thumbJasmine}>
                             A English education web application work with video and work sheet
+                        </WorkGridItem>
+                    </Section>
+                    <Section>
+                        <WorkGridItem id="lifelong"
+                            title="Lifelong CRRU"
+                            thumbnail={thumbLifelong}>
+                            A On line - On site Courses Selling web application
                         </WorkGridItem>
                     </Section>
                 </SimpleGrid>
